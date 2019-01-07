@@ -1,0 +1,2 @@
+# lgnvim
+light gui neovim
